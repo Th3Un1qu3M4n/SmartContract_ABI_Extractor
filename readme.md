@@ -7,8 +7,8 @@ To get the Node server running locally:
 - Clone this repo
 - `npm install` to install all required dependencies
 - `npm run dev` to start the local server
-- The Server can be accesed at ([localhost:5000/getAbi/:address](http://localhost:5000/getAbi/:address))
-- To get abi send GET request to ([localhost:5000/getAbi/:address](http://localhost:5000/getAbi/:address))
+- The Server can be accesed at [localhost:5000/](http://localhost:5000)
+- To get abi send GET request to [localhost:5000/getAbi/:address](http://localhost:5000/getAbi/:address)
 
 
 ## Application Structure
